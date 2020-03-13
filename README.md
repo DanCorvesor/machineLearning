@@ -6,14 +6,14 @@ List of current models:
 
 **Regression Practice** is a linear regression using Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor, given the total number of claims.
 The data set looks like:
-<img src="Images/Swedish%20insurance%20graph.PNG" width = 500>
+<img src="Images/Swedish%20insurance%20graph.PNG" width = 300>
 
 After a short number of iterations, it is clear my cost function had significantly decreased and converged.
-<img src="Images/Costs%20Swedish%20Insurance.PNG" width = 500>
+<img src="Images/Costs%20Swedish%20Insurance.PNG" width = 300>
 
 The results were very good:
 
-<img src="Images/Learned%20Regression.PNG" width = 500>
+<img src="Images/Learned%20Regression.PNG" width = 300>
 
 **Logistic Regression Practice** is a logistic classifier predicting the likelihood of the onset of diabetes within 5 years in Pima Indians given medical details. There are 8 features and 764 examples.
 
