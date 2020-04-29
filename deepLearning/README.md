@@ -19,7 +19,8 @@ Powerpoint is available in this repository. The following projects were all desi
 
 2. Cat and Dog Image Classification using Pytorch Lightning
 
-    **Installation instructions:
+    **Installation instructions**:
+    ```
         1- Download attached files
         2- Install Anaconda if needed: https://docs.anaconda.com/anaconda/install/windows/
         3- From Anaconda Prompt, navigate to folder with these files and execute
@@ -30,6 +31,8 @@ Powerpoint is available in this repository. The following projects were all desi
         conda install pillow=6.1
         pip install -r requirements.txt
         python -m ipykernel install --user --name=deeplearningtut
+        
+    ```
 
 
 3. VGG16 Cat and Dog Image Classification using pure Pytorch
