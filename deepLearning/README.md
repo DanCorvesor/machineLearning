@@ -36,6 +36,6 @@ Powerpoint is available in this repository. The following projects were all desi
 
 3. VGG16 Cat and Dog Image Classification using pure Pytorch
 
-    Much more complex model.
+    Much more complex model. Based around the Oxford VGG project https://www.robots.ox.ac.uk/~vgg/research/very_deep/  
     Google Colab link: https://colab.research.google.com/drive/1WbixZzZYiRPASMVlqbV3br8_axVipHpG
 
