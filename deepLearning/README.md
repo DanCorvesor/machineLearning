@@ -30,8 +30,7 @@ Powerpoint is available in this repository. The following projects were all desi
         conda install torchvision -c pytorch
         conda install pillow=6.1
         pip install -r requirements.txt
-        python -m ipykernel install --user --name=deeplearningtut
-        
+        python -m ipykernel install --user --name=deeplearningtut     
     ```
 
 
