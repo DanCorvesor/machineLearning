@@ -14,12 +14,12 @@ Powerpoint is available in this repository. The following projects were all desi
 
 1. MNIST number classification using Pytorch Lightning
 
-Using Yan Lecun's famous handwritten numbers dataset. Performance is relatively low due to the fact we don't use any convolutional        layers.
+    Using Yan Lecun's famous handwritten numbers dataset. Performance is relatively low due to the fact we don't use any convolutional        layers.
 
 2. Cat and Dog Image Classification using Pytorch Lightning
 
 3. VGG16 Cat and Dog Image Classification using pure Pytorch
 
-  Much more complex model.
-  Google Colab link: https://colab.research.google.com/drive/1WbixZzZYiRPASMVlqbV3br8_axVipHpG
+    Much more complex model.
+    Google Colab link: https://colab.research.google.com/drive/1WbixZzZYiRPASMVlqbV3br8_axVipHpG
 
