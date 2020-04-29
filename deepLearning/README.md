@@ -19,6 +19,9 @@ Powerpoint is available in this repository. The following projects were all desi
 
 2. Cat and Dog Image Classification using Pytorch Lightning
 
+The dataset for this problem can be found here: https://www.kaggle.com/c/dogs-vs-cats/data
+
+
     **Installation instructions**:
     ```
         1- Download attached files
